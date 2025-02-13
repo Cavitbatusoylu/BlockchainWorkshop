@@ -8,7 +8,15 @@
 # 8 Bit = 1 Bayt
 
 """
-
+AES, simetrik anahtarlı şifreleme algoritmasıdır.
+2001 yılında NIST (National Intitute of Standarts and Technology)
+Rijndael algorithm dayanır
+128-bit, 192-bit, 256-bit
+Günümüz şartlarında DES'e göre daha güvenlidir.
+Yüksek Hız Verimliliği, Güçlü ,Brute force dayanıklıdır.
+Veri Şifreleme
+WPA2, WPA3
+VPN
 """
 ##############################
 from Crypto.Cipher import AES
