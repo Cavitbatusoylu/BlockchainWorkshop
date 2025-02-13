@@ -34,7 +34,7 @@ YELLOW = Fore.YELLOW
 MAGENTA = Fore.MAGENTA
 CYAN = Fore.CYAN
 WHITE = Fore.WHITE
-RESET = Style.RESET_ALL #Renk sıfırlamak için kullanılır
+RESET = Style.RESET_ALL #Renkleri sıfırlamak için kullanılır
 
 
 
