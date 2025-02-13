@@ -22,7 +22,7 @@ VPN
 ####################################################################
 from Crypto.Cipher import AES  # AES ŞİFRELEME KÜTÜPHANESİ
 from Crypto.Util.Padding import pad, unpad # Veri bloklarını tamamlamak ve kaldırma fonksiyonu
-import os # Rastgele anahatar üretmek için kullanılan küütüphane
+import os # Rastgele anahatar üretmek için kullanılan kütüphane
 from colorama import Fore, Style #Renkli çıktı için
 
 ####################################################################
