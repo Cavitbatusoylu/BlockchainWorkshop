@@ -32,5 +32,6 @@ Yüksek Hız Verimliliği, Güçlü ,Brute force dayanıklıdır.
 Veri Şifreleme
 WPA2, WPA3
 VPN
+
 ```
 ---
