@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e340102-b7a2-4fdc-bbf0-cd3ecef36eee" name="Changes" comment="idea" />
+    <list default="true" id="1e340102-b7a2-4fdc-bbf0-cd3ecef36eee" name="Changes" comment="idea">
+      <change afterPath="$PROJECT_DIR$/Requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_01_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_02_1_Datatypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_02_2_TypeConvesition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_03_Cast_IsNone_Gc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_04_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_05_1_math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_05_2_date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_05_3_date_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_06_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_07_conditional.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_08_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_09_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_10_lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_11_hight_level_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_12_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_13_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_14_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_15_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_aes_des_rsa_hashing/_04_Hashing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_AES_SİMETRİK.py" beforeDir="false" afterPath="$PROJECT_DIR$/_03_aes_des_rsa_hashing/_01_AES_SİMETRİK.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_DES_SİMETRİK.py" beforeDir="false" afterPath="$PROJECT_DIR$/_03_aes_des_rsa_hashing/_02_DES_SİMETRİK.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_RSA_ASİMETRİK.py" beforeDir="false" afterPath="$PROJECT_DIR$/_03_aes_des_rsa_hashing/_03_RSA_ASİMETRİK.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +96,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cavit\OneDrive\Desktop\Blockchain Workshop\_01_phyton_tutorials" />
+      <recent name="C:\Users\cavit\OneDrive\Desktop\Blockchain Workshop\_03_aes_des_rsa_hashing" />
       <recent name="C:\Users\cavit\OneDrive\Desktop\Blockchain Workshop" />
       <recent name="C:\Users\cavit\OneDrive\Desktop\Blockchain Workshop\Pictures" />
     </key>
@@ -89,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\cavit\OneDrive\Desktop\Blockchain Workshop\_01_AES_SİMETRİK.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\cavit\OneDrive\Desktop\Blockchain Workshop\_03_aes_des_rsa_hashing\_01_AES_SİMETRİK.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -305,7 +332,31 @@
       <option name="project" value="LOCAL" />
       <updated>1739497165130</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="RSA">
+      <option name="closed" value="true" />
+      <created>1739498212587</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1739498212587</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Readme">
+      <option name="closed" value="true" />
+      <created>1739498233308</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1739498233308</updated>
+    </task>
+    <task id="LOCAL-00026" summary="idea">
+      <option name="closed" value="true" />
+      <created>1739498248665</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1739498248665</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -314,10 +365,10 @@
     <MESSAGE value="main" />
     <MESSAGE value="colorama" />
     <MESSAGE value="Blockchain" />
-    <MESSAGE value="Readme" />
     <MESSAGE value="AES" />
     <MESSAGE value="DES" />
     <MESSAGE value="RSA" />
+    <MESSAGE value="Readme" />
     <MESSAGE value="idea" />
     <option name="LAST_COMMIT_MESSAGE" value="idea" />
   </component>
