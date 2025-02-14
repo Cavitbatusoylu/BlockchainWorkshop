@@ -6,7 +6,7 @@
 # pip uninstall pycrptodome
 # pip install pycryptodome --no--cache-dir
 
-#BC(Cipher Block Chaining)
+#CBC(Cipher Block Chaining)
 #Simetrik: Aynı anahtar hem şifreleme hemde çözme işlemleri için kullanılır.
 #Asimetrik: İki farklı anahtar kullanılır(public, private)
 
@@ -28,7 +28,7 @@ Sabit blok şifrelme algoritmalarıya çalışırız örneğin: 16 byte Eüer ve
 pad tarafından eklenen fazlalıkları kaldırarak veriyi original haline getirmek
 """
 """
-DES:
+DES: Simetrik Şifreleme
 IBM tarafından 1977 NIST NIST (National Institute of Standards and Technology)
 Simetrik blok şifreleme
 Günümüzde güvenlik açısından çokça tercih edlimiyor
