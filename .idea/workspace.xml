@@ -4,31 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e340102-b7a2-4fdc-bbf0-cd3ecef36eee" name="Changes" comment="idea">
+    <list default="true" id="1e340102-b7a2-4fdc-bbf0-cd3ecef36eee" name="Changes" comment="RSA">
       <change afterPath="$PROJECT_DIR$/Requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_01_print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_02_1_Datatypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_02_2_TypeConvesition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_03_Cast_IsNone_Gc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_04_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_05_1_math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_05_2_date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_05_3_date_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_06_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_07_conditional.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_08_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_09_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_10_lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_11_hight_level_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_12_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_13_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_14_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01_phyton_tutorials/_15_dictionary.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/_03_aes_des_rsa_hashing/_04_Hashing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01_AES_SİMETRİK.py" beforeDir="false" afterPath="$PROJECT_DIR$/_03_aes_des_rsa_hashing/_01_AES_SİMETRİK.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_DES_SİMETRİK.py" beforeDir="false" afterPath="$PROJECT_DIR$/_03_aes_des_rsa_hashing/_02_DES_SİMETRİK.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_03_RSA_ASİMETRİK.py" beforeDir="false" afterPath="$PROJECT_DIR$/_03_aes_des_rsa_hashing/_03_RSA_ASİMETRİK.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -356,7 +335,55 @@
       <option name="project" value="LOCAL" />
       <updated>1739498248665</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="python tutorials">
+      <option name="closed" value="true" />
+      <created>1739499496116</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1739499496116</updated>
+    </task>
+    <task id="LOCAL-00028" summary="idea">
+      <option name="closed" value="true" />
+      <created>1739499520224</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1739499520224</updated>
+    </task>
+    <task id="LOCAL-00029" summary="python tutorials">
+      <option name="closed" value="true" />
+      <created>1739499570755</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1739499570757</updated>
+    </task>
+    <task id="LOCAL-00030" summary="AES">
+      <option name="closed" value="true" />
+      <created>1739499603285</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1739499603285</updated>
+    </task>
+    <task id="LOCAL-00031" summary="DES">
+      <option name="closed" value="true" />
+      <created>1739499615126</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1739499615126</updated>
+    </task>
+    <task id="LOCAL-00032" summary="RSA">
+      <option name="closed" value="true" />
+      <created>1739499628175</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1739499628175</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -365,11 +392,12 @@
     <MESSAGE value="main" />
     <MESSAGE value="colorama" />
     <MESSAGE value="Blockchain" />
+    <MESSAGE value="Readme" />
+    <MESSAGE value="idea" />
+    <MESSAGE value="python tutorials" />
     <MESSAGE value="AES" />
     <MESSAGE value="DES" />
     <MESSAGE value="RSA" />
-    <MESSAGE value="Readme" />
-    <MESSAGE value="idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="RSA" />
   </component>
 </project>
