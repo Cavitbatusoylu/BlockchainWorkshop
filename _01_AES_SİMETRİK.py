@@ -6,7 +6,16 @@
 # pip uninstall pycrptodome
 # pip install pycryptodome --no--cache-dir
 
+#CBC(Cipher Block Chaining)
+#Simetrik: Aynı anahtar hem şifreleme hemde çözme işlemleri için kullanılır.
+#Asimetrik: İki farklı anahtar kullanılır(public, private)
+
+# 1.AES (Advanced Encryption Standard) - Simetrik Şifreleme
+# AES için Pyhton'da pycryptodome kütüphanesini kullanabiliriz.
+# AES 128-bit blok boyutunda çalışır ve CBC (Cipher Block Chaining) gibi modlarla güvenliği artırabiliriz.
+
 # 8 Bit = 1 Bayt
+
 """
 AES,DES şifreleme algoritmalarında kulllanılır:
 Şifrelemede öncesinde PAD
