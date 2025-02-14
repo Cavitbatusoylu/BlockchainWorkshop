@@ -1,12 +1,26 @@
 # pip --vesion
 # pip install pycrptodome  # AES KÜTÜPHANESİ
+#pip install colorama #Color
 
 # Eğer paket yüklenmezse
 # pip uninstall pycrptodome
 # pip install pycryptodome --no--cache-dir
 
 # 8 Bit = 1 Bayt
+"""
+AES,DES şifreleme algoritmalarında kulllanılır:
+Şifrelemede öncesinde PAD
+Şifre çözümlemede UNPAD
 
+pad, unpad bu fonksiyonlar AES,DES blok şifrelemede algoritmalarında
+veriyi istediğimizi formda kullanmak için bu fonksiyonunu çağırız.
+
+1-pad: Doldurma: veriyi belirli bir blok boyutuna tamamlamak içindir
+Sabit blok şifrelme algoritmalarıya çalışırız örneğin: 16 byte Eüer veriyi tam blok haline getirmezseni şifreleme çalışmaz.
+
+2-unpad: Kaldırma: şifrelenmiş verinin tamamına ulaşana kadar bırakılan paddingı kaldırır.
+pad tarafından eklenen fazlalıkları kaldırarak veriyi original haline getirmek
+"""
 """
 AES, simetrik anahtarlı şifreleme algoritmasıdır.
 2001 yılında NIST (National Intitute of Standarts and Technology)
@@ -35,10 +49,6 @@ MAGENTA = Fore.MAGENTA
 CYAN = Fore.CYAN
 WHITE = Fore.WHITE
 RESET = Style.RESET_ALL #Renkleri sıfırlamak için kullanılır
-
-
-
-
 ####################################################################
 
 # 8 bit = 1 byte
