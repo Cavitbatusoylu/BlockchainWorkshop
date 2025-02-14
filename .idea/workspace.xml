@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e340102-b7a2-4fdc-bbf0-cd3ecef36eee" name="Changes" comment="idea">
-      <change afterPath="$PROJECT_DIR$/_03_aes_des_rsa_hashing/_04_Hashing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -414,7 +414,31 @@
       <option name="project" value="LOCAL" />
       <updated>1739500727571</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="idea">
+      <option name="closed" value="true" />
+      <created>1739500871759</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1739500871759</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Hashing">
+      <option name="closed" value="true" />
+      <created>1739501215239</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1739501215239</updated>
+    </task>
+    <task id="LOCAL-00039" summary="idea">
+      <option name="closed" value="true" />
+      <created>1739501234843</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1739501234843</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -429,6 +453,7 @@
     <MESSAGE value="RSA" />
     <MESSAGE value="python tutorials oop" />
     <MESSAGE value="Blockchain" />
+    <MESSAGE value="Hashing" />
     <MESSAGE value="idea" />
     <option name="LAST_COMMIT_MESSAGE" value="idea" />
   </component>
