@@ -21,6 +21,13 @@ pip install pycrptodome  # AES KÜTÜPHANESİ
 ```
 ---
 
+## Renkler
+```sh
+pip install colorama
+form colorama import Fore, Style
+```
+---
+
 ## AES
 ```sh
 AES, simetrik anahtarlı şifreleme algoritmasıdır.
