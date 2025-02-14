@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e340102-b7a2-4fdc-bbf0-cd3ecef36eee" name="Changes" comment="idea">
-      <change afterPath="$PROJECT_DIR$/Requirements.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/_03_aes_des_rsa_hashing/_04_Hashing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,10 +73,10 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cavit\OneDrive\Desktop\Blockchain Workshop" />
       <recent name="C:\Users\cavit\OneDrive\Desktop\Blockchain Workshop\_02_python_tutorials_oop" />
       <recent name="C:\Users\cavit\OneDrive\Desktop\Blockchain Workshop\_01_phyton_tutorials" />
       <recent name="C:\Users\cavit\OneDrive\Desktop\Blockchain Workshop\_03_aes_des_rsa_hashing" />
-      <recent name="C:\Users\cavit\OneDrive\Desktop\Blockchain Workshop" />
       <recent name="C:\Users\cavit\OneDrive\Desktop\Blockchain Workshop\Pictures" />
     </key>
   </component>
@@ -399,7 +398,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739500258249</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Blockchain">
+      <option name="closed" value="true" />
+      <created>1739500711555</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1739500711555</updated>
+    </task>
+    <task id="LOCAL-00036" summary="idea">
+      <option name="closed" value="true" />
+      <created>1739500727571</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1739500727571</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -407,13 +422,13 @@
     <MESSAGE value="AES revize comment" />
     <MESSAGE value="main" />
     <MESSAGE value="colorama" />
-    <MESSAGE value="Blockchain" />
     <MESSAGE value="Readme" />
     <MESSAGE value="python tutorials" />
     <MESSAGE value="AES" />
     <MESSAGE value="DES" />
     <MESSAGE value="RSA" />
     <MESSAGE value="python tutorials oop" />
+    <MESSAGE value="Blockchain" />
     <MESSAGE value="idea" />
     <option name="LAST_COMMIT_MESSAGE" value="idea" />
   </component>
